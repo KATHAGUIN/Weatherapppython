@@ -22,7 +22,7 @@ This is a simple Python application built with Streamlit to fetch and display we
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-weather-app.git #CHANGE HERE FOR YOUR REPOSITORY URL
+   git clone https://github.com/KATHAGUIN/Weatherapppython.git
    cd your-weather-app
 
 
