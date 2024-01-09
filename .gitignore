@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+weather_venv/
+.vscode/
+.idea/
+config.py
